@@ -1,5 +1,6 @@
 # AI Web Scraper: Final Detailed Report
 
+![alt text](https://github.com/AryanDahiya00/Ai-Webscrapper-/blob/main/test.png)
 ## 1. Introduction
 
 The AI Web Scraper is a Streamlit-based application that allows users to scrape content from websites and extract specific information using AI-powered parsing. This report provides a comprehensive overview of the application's architecture, components, and functionality.
